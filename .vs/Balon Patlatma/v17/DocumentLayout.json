@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\hazal\\OneDrive\\Masa\u00FCst\u00FC\\UNITY\\Balon Patlatma\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6D961AF-E7D4-D788-E0AA-265B8BAE88A0}|Assembly-CSharp.csproj|C:\\Users\\hazal\\OneDrive\\Masa\u00FCst\u00FC\\UNITY\\Balon Patlatma\\assets\\scripts\\balonolusturucu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6D961AF-E7D4-D788-E0AA-265B8BAE88A0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\balonolusturucu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6D961AF-E7D4-D788-E0AA-265B8BAE88A0}|Assembly-CSharp.csproj|c:\\users\\hazal\\onedrive\\masa\u00FCst\u00FC\\unity\\balon patlatma\\assets\\scripts\\buton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6D961AF-E7D4-D788-E0AA-265B8BAE88A0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A6D961AF-E7D4-D788-E0AA-265B8BAE88A0}|Assembly-CSharp.csproj|c:\\users\\hazal\\onedrive\\masa\u00FCst\u00FC\\unity\\balon patlatma\\assets\\scripts\\oyunkontrolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6D961AF-E7D4-D788-E0AA-265B8BAE88A0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\oyunkontrolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,57 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Buton.cs",
-              "DocumentMoniker": "C:\\Users\\hazal\\OneDrive\\Masa\u00FCst\u00FC\\UNITY\\Balon Patlatma\\Assets\\Scripts\\Buton.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Buton.cs",
-              "ToolTip": "C:\\Users\\hazal\\OneDrive\\Masa\u00FCst\u00FC\\UNITY\\Balon Patlatma\\Assets\\Scripts\\Buton.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Buton.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T12:45:30.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "OyunKontrolcu.cs",
               "DocumentMoniker": "C:\\Users\\hazal\\OneDrive\\Masa\u00FCst\u00FC\\UNITY\\Balon Patlatma\\Assets\\Scripts\\OyunKontrolcu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\OyunKontrolcu.cs",
               "ToolTip": "C:\\Users\\hazal\\OneDrive\\Masa\u00FCst\u00FC\\UNITY\\Balon Patlatma\\Assets\\Scripts\\OyunKontrolcu.cs",
               "RelativeToolTip": "Assets\\Scripts\\OyunKontrolcu.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAlwCIAAAAJAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA8AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T08:14:08.712Z",
+              "WhenOpened": "2025-04-21T19:39:55.789Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "BalonKontrolcu.cs",
               "DocumentMoniker": "C:\\Users\\hazal\\OneDrive\\Masa\u00FCst\u00FC\\UNITY\\Balon Patlatma\\Assets\\Scripts\\BalonKontrolcu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BalonKontrolcu.cs",
               "ToolTip": "C:\\Users\\hazal\\OneDrive\\Masa\u00FCst\u00FC\\UNITY\\Balon Patlatma\\Assets\\Scripts\\BalonKontrolcu.cs",
               "RelativeToolTip": "Assets\\Scripts\\BalonKontrolcu.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAawBIAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T08:13:44.587Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BalonOlusturucu.cs",
-              "DocumentMoniker": "C:\\Users\\hazal\\OneDrive\\Masa\u00FCst\u00FC\\UNITY\\Balon Patlatma\\Assets\\Scripts\\BalonOlusturucu.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\BalonOlusturucu.cs",
-              "ToolTip": "C:\\Users\\hazal\\OneDrive\\Masa\u00FCst\u00FC\\UNITY\\Balon Patlatma\\Assets\\Scripts\\BalonOlusturucu.cs",
-              "RelativeToolTip": "Assets\\Scripts\\BalonOlusturucu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T13:41:35.298Z",
+              "WhenOpened": "2024-09-30T08:13:44.587Z",
               "EditorCaption": ""
             }
           ]

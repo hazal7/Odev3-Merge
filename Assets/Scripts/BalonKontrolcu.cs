@@ -17,5 +17,8 @@ public class BalonKontrolcu : MonoBehaviour
         Destroy(this.gameObject);
         Destroy(go, 0.267f);
         oyunKontrolScripti.BalonEkle();
+       
+
+
     }
 }
